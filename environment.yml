@@ -1,0 +1,12 @@
+name: pymol
+channels:
+  - omnia
+  - anaconda
+  - egilliesix
+  - conda-forge
+dependencies:
+  - pymol
+  - jupyter
+  - libglu
+  - glew
+  
