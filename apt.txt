@@ -3,3 +3,4 @@ libegl1-mesa
 libglx-mesa0
 libglu1-mesa
 libxrandr2
+libxi6
