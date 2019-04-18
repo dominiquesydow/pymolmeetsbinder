@@ -1,10 +1,10 @@
 name: pymol
 channels:
-  - omnia
-  - anaconda
-  - egilliesix
+  - samoturk
   - conda-forge
+  - anaconda
 dependencies:
+  - python
   - pymol
   - jupyter
   - libglu
